@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
+global.owner = ['212661809542']
+global.premium = ['212661809542']
+global.ownernomer = '212661809542'
 global.ownername = 'Dark Alpha'
 global.botname = 'BIXBY-MD USER BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
@@ -40,7 +40,7 @@ global.mess = {
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    private true!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Please Wait...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
