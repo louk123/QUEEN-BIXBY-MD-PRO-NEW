@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['212661809542']
 global.premium = ['212661809542']
 global.ownernomer = '212661809542'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
+global.ownername = '*أبو لقمـــان البࢪازيلي 🇧🇷⃟🔱*'
+global.botname = 'LO9MANE BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
@@ -35,7 +35,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
-    success: 'Done ✓',
+    success: 'HH OK Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
