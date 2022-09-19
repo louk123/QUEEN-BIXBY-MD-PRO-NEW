@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['212661809542']
-global.premium = ['212661809542']
-global.ownernomer = '212661809542'
+global.owner = ['84876916048']
+global.premium = ['84876916048']
+global.ownernomer = '84876916048'
 global.ownername = '*أبو لقمـــان البࢪازيلي 🇧🇷⃟🔱*'
 global.botname = 'LO9MANE BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
@@ -29,8 +29,8 @@ global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
 global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'DARK ALPHA'
+global.packname = 'ححنا لمࢪاڪشين مهيبين علۍ مڪم'
+global.author = 'لقمان لمࢪاڪشي😻'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
